@@ -1,0 +1,8 @@
+Changes
+lib/WebService/SmartFM.pm
+Makefile.PL
+MANIFEST
+META.yml
+README
+t/00.load.t
+t/01.use.t
