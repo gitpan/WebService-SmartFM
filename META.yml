@@ -1,5 +1,5 @@
 ---
-abstract: ~
+abstract: 'Perl interface to the http://smart.fm/ API'
 author:
   - '<noblejasper>  C<< <<nobjas@gmail.com>> >>'
 build_requires:
@@ -24,4 +24,4 @@ requires:
   perl: 5.8.1
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.000003
+version: 0.000004
